@@ -1,0 +1,30 @@
+html {
+    font-size: 20px;
+    font-family: 'time new roman';
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color:rgb(89, 164, 248);
+    text-shadow: 3px 3px 1px black;
+}
+p, li {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+html {
+    background-color: rgb(248, 178, 193);;
+}
+body {
+    width: 1300px;
+    margin: 1 auto;
+    background-color: rgb(241, 244, 186);
+    padding: 0 20px 20px; 
+    border: 5px solid rgb(246, 142, 142);
+}
+img {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
